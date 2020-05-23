@@ -1,5 +1,5 @@
 package basics;
 
 public class loan {
-system.out.println("TEST");
+system.out.println("TESTing");
 }
