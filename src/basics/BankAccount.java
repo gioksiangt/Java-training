@@ -8,7 +8,7 @@ public class BankAccount implements opp {
 	private String AccType;
 
 	BankAccount() {
-		System.out.println("New account created");
+		System.out.println("New account created-NEW Release");
 	}
 	
 	BankAccount(String ssn){
